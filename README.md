@@ -1,180 +1,116 @@
+<!-- 🌟 Dynamic Header with Matrix Effect -->
 <div align="center">
-
-  <!-- Animated Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shabaab%20Hanaan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%26%20Web%20Developer&descAlignY=51&descAlign=50"/>
-
-  <!-- Animated typing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B+Welcome+to+my+GitHub;Building+Amazing+Web+Applications;Passionate+About+Clean+Code+%26+Innovation;Always+Learning+%7C+Always+Growing+%F0%9F%9A%80" alt="Typing Animation" />
-
-  <!-- Animated wave -->
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff41,100:008f11&height=200&section=header&text=SHABAAB%20HANAAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=60&descSize=20"/>
 </div>
-<!-- About Me Section with Animation -->
+<!-- 🚀 Hero Section -->
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=🌍+Welcome+to+my+digital+universe;💻+Crafting+elegant+solutions;🎯+Turning+ideas+into+reality;🔥+Always+pushing+boundaries" alt="Hero Animation" />
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-  const shabaab = {
-    pronouns: "He/Him",
-    location: "Building the future from my keyboard ⌨️",
-    currentFocus: "Full-Stack Development",
-    technologies: {
-      frontend: ["HTML5", "CSS3", "JavaScript"],
-      backend: ["PHP", "Python"],
-      databases: ["MySQL"],
-      tools: ["Git", "VS Code"]
-    },
-    passion: "Turning coffee into code ☕ → 💻",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-  };
-  
-
-  🔭 Currently working on: Building amazing web experiences  
-  🌱 Learning: Advanced JavaScript frameworks and modern development practices  
-  💡 Philosophy: Simple solutions to complex problems  
-  📫 Reach out: shababhanaan22@gmail.com
-
-  <!-- Animated separator -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
-<!-- Animated GitHub Stats -->
+<!-- 📊 Advanced Stats Dashboard -->
+<h2 align="center">📊 Performance Metrics</h2>
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=shabaabhanaan&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabaabhanaan&theme=github-dark-blue&background=0d1117&border=30363d" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
-
-  <!-- Animated stats cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shabaabhanaan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabaabhanaan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=10"/>
-
-  <!-- Live Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=shabaabhanaan&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-
-  <!-- Live Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabaabhanaan&theme=github-compact&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true" width="100%"/>
-
-  <!-- Live Metrics -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shabaabhanaan&theme=radical" width="100%" />
-
-  <!-- Animated contribution snake -->
-  <img src="https://raw.githubusercontent.com/shabaabhanaan/shabaabhanaan/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabaabhanaan&theme=github-compact&bg_color=0d1117&color=58a6ff&line=f85149&point=ffffff&area=true" width="100%"/>
 </div>
-<!-- Animated Trophy Section -->
+<!-- 🛠️ Tech Arsenal -->
+<h2 align="center">🛠️ Technology Arsenal</h2>
 <div align="center">
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Achievements
-
-  <img src="https://github-profile-trophy.vercel.app/?username=shabaabhanaan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-
-  <!-- Live commit calendar -->
-  <img src="https://ghchart.rshah.org/409ba5/shabaabhanaan" alt="Contribution Graph" width="100%" />
-
+Frontend Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+Backend Development
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+Database & Tools
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-<!-- Animated Tech Stack -->
+<!-- 🏆 Achievements Showcase -->
+<h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack & Tools
-
-  <!-- Animated typing for tech stack -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Programming+Languages+%F0%9F%92%BB;Web+Development+%F0%9F%8C%90;Database+Management+%F0%9F%97%84%EF%B8%8F;Version+Control+%26+Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Tech Stack Typing" />
-
-  <!-- Programming Languages with hover effects -->
-  💻 Programming Languages
-
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php&theme=dark&perline=5" />
-
-  🌐 Web Technologies
-
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery&theme=dark&perline=4" />
-
-  🗄️ Databases & Tools
-
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark&perline=5" />
-
-  <!-- Animated separator -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
-
+  <img src="https://github-profile-trophy.vercel.app/?username=shabaabhanaan&theme=github_dark&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
-<!-- Animated Connect Section -->
+<!-- 📈 Detailed Analytics -->
+<h2 align="center">📈 Code Analytics</h2>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabaabhanaan&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d" alt="Top Languages" />
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="42"> Let's Connect & Collaborate
+  <br><br>
 
-  <!-- Animated handshake -->
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80">
-
-  <!-- Social links with animated badges -->
-  <a href="https://linkedin.com/in/hanaan-fasni" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/hanaan_fasni" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://medium.com/@shababhanaan22" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://www.hackerrank.com/shababhanaan" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-
-  <!-- Real-time contact typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=📧+shababhanaan22@gmail.com;💬+Always+open+to+interesting+conversations;🤝+Let's+build+something+amazing+together!" alt="Contact Animation" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shabaabhanaan&theme=github_dark" width="100%" />
 </div>
-<!-- Live Coding Activity -->
+<!-- 💼 Professional Info -->
+<h2 align="center">💼 About Me</h2>
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> Live Coding Activity
-
-  <!-- Real-time coding stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shabaabhanaan&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" />
-
-  <!-- Animated metrics -->
-  <img src="https://metrics.lecoq.io/shabaabhanaan?template=classic&config.timezone=Asia%2FDubai&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.animations=true" alt="Metrics" width="400">
-
+{
+  "name": "Shabaab Hanaan",
+  "role": "Software & Web Developer",
+  "location": "🌍 Building the future, one line at a time",
+  "currentStatus": "🚀 Actively developing and learning",
+  "expertise": {
+    "frontend": ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+    "backend": ["PHP", "Python", "C/C++"],
+    "database": ["MySQL"],
+    "tools": ["Git", "VS Code", "Figma"]
+  },
+  "philosophy": "Clean code is not written by following a set of rules. It's written by someone who cares.",
+  "motto": "Code, Coffee, Repeat ☕"
+}
+🎯 Current Focus: Building scalable web applications  
+📚 Learning: Modern JavaScript frameworks and best practices  
+💡 Passion: Creating efficient, user-friendly solutions  
+📬 Contact: shababhanaan22@gmail.com  
 </div>
-<!-- Random Dev Quote -->
+<!-- 🌐 Connect Section -->
+<h2 align="center">🌐 Let's Connect</h2>
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oriNYQX2lC6dfW2Ji/giphy.gif" width="30"> Random Dev Quote
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_category=programming" />
-
+<a href="https://linkedin.com/in/hanaan-fasni">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/hanaan_fasni">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://medium.com/@shababhanaan22">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/shababhanaan">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=💬+Open+to+collaborations+and+opportunities;🤝+Let's+build+something+amazing+together;📧+Always+happy+to+chat+about+tech!" alt="Contact Info" />
 </div>
-<!-- Live Activity Feed -->
+<!-- 📊 Profile Views Counter -->
 <div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=shabaabhanaan&style=for-the-badge&color=58a6ff" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shabaabhanaan?style=for-the-badge&color=58a6ff" alt="Followers" />
 
-<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Recent Activity
+  <br><br>
 
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
+  <!-- Animated footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008f11,100:00ff41&height=100&section=footer" />
 
-  <!-- Animated terminal -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00FF00&background=000000FF&center=true&vCenter=true&width=800&height=60&lines=git+add+.;git+commit+-m+%22feat%3A+implement+awesome+feature%22;git+push+origin+main;npm+run+build+--+Building+the+future..." alt="Terminal Animation" />
-
-</div>
-<!-- Footer with animations -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Profile Statistics
-
-  <img src="https://komarev.com/ghpvc/?username=shabaabhanaan&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shabaabhanaan?label=Followers&style=for-the-badge&color=F85D7F" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/shabaabhanaan?label=Stars&style=for-the-badge&color=F8D866" alt="Stars" />
-
-  <!-- Animated footer wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-  <!-- Live quote generator -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=2000&color=F8D866&center=true&vCenter=true&width=800&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+–+John+Johnson;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+–+Cory+House;%22The+best+error+message+is+the+one+that+never+shows+up.%22+–+Thomas+Fuchs;%22Programming+isn't+about+what+you+know%3B+it's+about+problem-solving.%22" alt="Quote Animation" />
-
-  <!-- Animated emoji -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-  Thanks for visiting! Happy coding! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🙏;Happy+coding!+💻✨" alt="Footer Message" />
 </div>
