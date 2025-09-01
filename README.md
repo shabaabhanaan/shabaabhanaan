@@ -169,8 +169,7 @@
   <!-- Animated footer wave -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-  <!-- Live quote generator -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=2000&color=F8D866&center=true&vCenter=true&width=800&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+–+John+Johnson;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+–+Cory+House;%22The+best+error+message+is+the+one+that+never+shows+up.%22+–+Thomas+Fuchs;%22Programming+isn't+about+what+you+know%3B+it's+about+problem-solving.%22" alt="Quote Animation" />
+  
 
   <!-- Animated emoji -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
