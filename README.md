@@ -43,8 +43,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabaabhanaan&theme=github-compact&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true" width="100%"/>
   <!-- Live Metrics -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shabaabhanaan&theme=radical" width="100%" />
-  <!-- Animated contribution snake -->
-  <img src="https://raw.githubusercontent.com/shabaabhanaan/shabaabhanaan/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <!-- Animated contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabaabhanaan&theme=radical&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </div>
 <!-- Animated Trophy Section -->
 <div align="center">
@@ -92,10 +92,12 @@
 <!-- Live Coding Activity -->
 <div align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> Live Coding Activity
-  <!-- Real-time coding stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shabaabhanaan&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" />
-  <!-- Animated metrics -->
-  <img src="https://metrics.lecoq.io/shabaabhanaan?template=classic&config.timezone=Asia%2FDubai&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.animations=true" alt="Metrics" width="400">
+  <!-- Animated coding activity -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=F75C7E&center=true&vCenter=true&width=700&lines=Currently+coding+in+JavaScript+%F0%9F%9A%80;Building+responsive+web+applications+%F0%9F%8C%90;Debugging+with+passion+%F0%9F%90%9B%E2%9E%A1%EF%B8%8F%E2%9C%A8;Learning+new+frameworks+daily+%F0%9F%93%9A;Coffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95" alt="Coding Activity" />
+  <!-- Live development status -->
+  <img src="https://img.shields.io/badge/Status-Actively%20Coding-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Available%20For-Collaboration-orange?style=for-the-badge&logo=handshake&logoColor=white" />
 </div>
 <!-- Random Dev Quote -->
 <div align="center">
