@@ -1,12 +1,12 @@
 <!-- 🌟 Dynamic Header with Matrix Effect -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff41,100:008f11&height=200&section=header&text=SHABAAB%20HANAAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff41,100:008f11&height=200&section=header&text=SHABAAB%20HANAAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=60&descSize=20"/>
 </div>
 <!-- 🚀 Hero Section -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=🌍+Welcome+to+my+digital+universe;💻+Crafting+elegant+solutions;🎯+Turning+ideas+into+reality;🔥+Always+pushing+boundaries" alt="Hero Animation" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://github.com/shabaabhanaan/shabaabhanaan/blob/output/github-contribution-grid-snake.svg" width="600" alt="GitHub Contribution Snake" />
 </div>
 <!-- 📊 Advanced Stats Dashboard -->
 <h2 align="center">📊 Performance Metrics</h2>
