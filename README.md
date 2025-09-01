@@ -1,6 +1,6 @@
 <!-- 🌟 Dynamic Header with Matrix Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff41,100:008f11&height=200&section=header&text=SHABAAB%20HANAAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=60&descSize=20"/>
+    <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff41,100:008f11&height=200&section=header&text=SHABAAB%20HANAAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=60&descSize=20"/>
 </div>
 <!-- 🚀 Hero Section -->
 <div align="center">
