@@ -1,6 +1,6 @@
 <!-- Professional Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1d4ed8&height=200&section=header&text=SHABAAB%20HANAAN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20Web%20Developer&descAlignY=55&descSize=18"/>
+  
 </div>
 
 <!-- Animated Intro -->
