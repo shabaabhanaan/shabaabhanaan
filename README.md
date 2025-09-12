@@ -14,7 +14,6 @@
 
 I am a passionate **Full Stack Developer** with expertise in modern web technologies and software engineering principles. I focus on creating scalable, efficient solutions and writing clean, maintainable code.
 
-```typescript
 const developer = {
   name: "Shabaab Hanaan",
   role: "Software & Web Developer",
@@ -23,7 +22,7 @@ const developer = {
   learning: ["Advanced JavaScript", "Cloud Technologies", "System Design"],
   contact: "shababhanaan22@gmail.com"
 };
-```
+
 
 - 🔭 Currently working on **web application development**
 - 🌱 Learning **advanced JavaScript frameworks** and **cloud technologies**
